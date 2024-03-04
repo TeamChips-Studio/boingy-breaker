@@ -7,7 +7,16 @@ Dernière mise à jour : 29/01/2024
 Nous ne collectons aucune donnée personnelle lorsque vous utilisez Boingy Breaker. Le jeu est conçu de manière à garantir la confidentialité totale des utilisateurs.
 
 ### 1.2 Collecte Automatique d'Informations
-Bien que nous ne collectons aucune donnée personnelle, nous utilisons des technologies de suivi tiers pour collecter automatiquement des informations sur l'utilisation de Boingy Breaker, y compris des informations anonymes sur les appareils, les interactions et les préférences de l'utilisateur.
+Notre application intègre le service de publicité Google AdMob afin de monétiser notre contenu à travers l'affichage de publicités. Google AdMob est une plateforme publicitaire qui collecte automatiquement certaines informations anonymes sur l'utilisation de l'application à des fins publicitaires. Ces informations sont utilisées pour personnaliser les annonces et améliorer l'efficacité de la publicité pour les utilisateurs de l'application.
+
+#### 1.2.1 Identifiants publicitaires 
+Google AdMob peut collecter des identifiants publicitaires uniques associés à chaque appareil, tels que l'ID de publicité Google Advertising ID (GAID) sur les appareils Android ou l'IDFA (Identifier for Advertisers) sur les appareils iOS. Ces identifiants sont utilisés pour suivre l'activité publicitaire et mesurer les performances des annonces.
+
+#### 1.2.2 Informations sur l'appareil
+Des informations sur l'appareil peuvent être collectées, y compris le modèle de l'appareil, la version du système d'exploitation, la langue de l'appareil et d'autres paramètres techniques similaires. Ces données aident à optimiser la diffusion des annonces pour différents types d'appareils et configurations.
+
+#### 1.2.3 Données sur les interactions de l'utilisateur avec les publicités
+Google AdMob peut enregistrer des données sur les interactions de l'utilisateur avec les publicités affichées dans l'application, telles que les clics sur les annonces et les vues d'annonces. Ces informations sont utilisées pour évaluer l'efficacité des annonces et personnaliser l'expérience publicitaire de l'utilisateur.
 
 ## 2. Utilisation des Informations
 ### 2.1 Publicité basée sur les intérêts
